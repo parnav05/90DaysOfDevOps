@@ -4,3 +4,38 @@ line 3
 app.log
 company_data.txt
 notes.txt
+    1  passwd 
+    2  ls
+    3  rm notes.txt 
+    4  cd /home/
+    5  ls
+    6  cd parnav/
+    7  ls 
+    8  touch notes.txt
+    9  ls
+   10  vim notes.txt 
+   11  echo "this is a challange i have to compleate in as soon as possible " > notes.txt 
+   12  cat notes.txt 
+   13  echo "line 1 " >> notes.txt 
+   14  cat notes.txt 
+   15  man tee
+   16  echo "line 3" notes.txt 
+   17  cat notes.txt 
+   18  ls
+   19  ls -lh
+   20  rm echo 
+   21  rm nano
+   22  ls
+   23  cat notes.txt 
+   24  echo "line 3" |tee -a notes.txt 
+   25  cat notes.txt 
+   26  head -n 2 notes.txt 
+   27  head -3 notes.txt 
+   28  ls 
+   29  ls | tee -a notes.txt 
+   30  cat notes.txt 
+   31  mv notes.txt /mnt/c/users/parna/downloads
+   32  history
+   33  cp /mnt/c/users/parna/downloads/notes.txt /home/parnav/
+   34  ls
+   35  history |tee -a  /mnt/c/users/parna/downloads/notes.txt
